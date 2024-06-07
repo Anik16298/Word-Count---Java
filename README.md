@@ -4,7 +4,7 @@
 Apache NetBeans IDE-15
 
 ## **JDK Development Kit:**
-I have Use JDK-19
+I have Used JDK-19
 
 ## **Code Screen Shot:**
 
